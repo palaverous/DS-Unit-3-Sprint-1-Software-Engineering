@@ -9,6 +9,7 @@ Places for your code (and dependencies) to live.
 
 ## Before Lecture
 
+I have installed Anaconda, I have not visited the modules.
 Install [Anaconda](https://www.anaconda.com/distribution) on your local machine
 if you haven't already, and read the official documentation for
 [Python modules](https://docs.python.org/3.7/tutorial/modules.html).
